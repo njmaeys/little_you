@@ -7,6 +7,7 @@ vertical_speed = 0;
 gravity_force = 0.5;
 jump_speed = -10;
 can_jump = true;
+jumping = true;
 
 
 // Top center of head

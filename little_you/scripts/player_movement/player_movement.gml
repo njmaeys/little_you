@@ -43,21 +43,26 @@ function player_move() {
 
 
 function player_jump() {
-	// Apply gravity
-	vertical_speed += gravity_force;
+	show_debug_message($"Jumping: {jumping}");
+	if jumping {
+		// Apply gravity
+		vertical_speed += gravity_force;
 
-	// Update vertical position
-	y += vertical_speed;
+		// Update vertical position
+		y += vertical_speed;
+	}
 
 	// Check if player is on the ground
 	if place_meeting(x, y + 1, obj_ground) {
 	    can_jump = true;
+		jumping = false;
     
 	    // Stop falling when on ground
-	    if vertical_speed > 0 {
+	    if vertical_speed >= 0 {
 	        vertical_speed = 0;
 	    }
 	}
+	
 
 	// Jump logic
 	if (
@@ -67,7 +72,8 @@ function player_jump() {
 		and can_jump 
 	{
 		// NOTE: May need to do some sort of jump cooldown... otherwise the player can just bounc like crazy... it's kinda funny tho
-	    vertical_speed = jump_speed;
+	    jumping = true;
+		vertical_speed = jump_speed;
 	    can_jump = false;
 	}
 	
@@ -85,7 +91,12 @@ function player_jump() {
 	}
 
 	// Prevent getting stuck in ground
-	if place_meeting(x, y, obj_ground) {
+	if place_meeting(x, y - 1, obj_ground) 
+		and vertical_speed >= 0
+	{
+		// This is weird... it works but also means that if the player hits a ledge they make the jump 
+		// when they shouldn't
+		
 	    // Move player up until they're not inside ground
 	    while (place_meeting(x, y, obj_ground)) {
 	        y -= 1;

@@ -29,8 +29,8 @@
               "state": {
                 "file": "Core Concepts.canvas",
                 "viewState": {
-                  "x": 805.2600913423147,
-                  "y": 372.7739340277779,
+                  "x": 929.9922752819069,
+                  "y": 530.2640652646371,
                   "zoom": -0.3333333333333332
                 }
               },
@@ -39,7 +39,8 @@
               "title": "Core Concepts"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "db648f62ead55051",
@@ -200,7 +201,7 @@
       "obsidian-projects:Open projects": false
     }
   },
-  "active": "a57ddfb5ab3ba40a",
+  "active": "b7cd1aefa8d4ac21",
   "lastOpenFiles": [
     "Core Concepts.canvas",
     "Stories/Story 1.md",

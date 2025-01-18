@@ -12,12 +12,13 @@
 		{"id":"a377ac5a90629e06","type":"text","text":"Primarily black and white.\n\nOnly key things should pop with color like red, green, ...","x":1125,"y":78,"width":250,"height":162},
 		{"id":"c0fccd4386b16439","type":"text","text":"Initially shoot for a 10 min little game with a story","x":280,"y":-81,"width":250,"height":100},
 		{"id":"cf2df51dc9f13100","type":"text","text":"Long term series of short stories?\n\nThis would allow for evolution of game if it's fun and new player engagement","x":280,"y":59,"width":250,"height":200},
-		{"id":"b59b7c7055c0ed48","x":2360,"y":-40,"width":280,"height":100,"color":"1","type":"text","text":"- Keep control scheme stupid simple\n- Must support controller"},
-		{"id":"0aea770241216d48","x":600,"y":-46,"width":250,"height":95,"color":"5","type":"text","text":"Stories\n- [[Story 1]]"},
+		{"id":"b59b7c7055c0ed48","type":"text","text":"- Keep control scheme stupid simple\n- Must support controller","x":2360,"y":-40,"width":280,"height":100,"color":"1"},
+		{"id":"0aea770241216d48","type":"text","text":"Stories\n- [[Story 1]]","x":600,"y":-46,"width":250,"height":95,"color":"5"},
 		{"id":"38481160f821d9fc","type":"text","text":"Question on pixel art is this being stick figures and text it may be better as a more vector based design","x":1440,"y":-61,"width":250,"height":160,"color":"#f8fecd"},
 		{"id":"d2094d4f042824e5","type":"text","text":"32x32 base if using pixel art - Core\n- Ultimately means is based around a +/- 8px","x":1125,"y":280,"width":250,"height":193,"color":"4"},
-		{"id":"e637627e15b7e78c","x":575,"y":159,"width":300,"height":274,"type":"text","text":"**Story Broad Theme Ideas**\n- Sci Fi\n- High Fantasy\n- Thinking D&D 1shot type story telling\n**Questions To Answer**\n- Why are ***You*** in the story?\n- Do characters persist?"},
-		{"id":"48f8f48666153581","type":"text","text":"NPC Interactions\nStory telling could be more engaging with occasional folks you meet along the way\n- [Heartbound](https://store.steampowered.com/app/567380/Heartbound/) has some very engaging NPCs. For a short game don't need this level of detail but the concept is interesting","x":1900,"y":317,"width":380,"height":233}
+		{"id":"e637627e15b7e78c","type":"text","text":"**Story Broad Theme Ideas**\n- Sci Fi\n- High Fantasy\n- Thinking D&D 1shot type story telling\n**Questions To Answer**\n- Why are ***You*** in the story?\n- Do characters persist?","x":575,"y":159,"width":300,"height":274},
+		{"id":"48f8f48666153581","type":"text","text":"NPC Interactions\nStory telling could be more engaging with occasional folks you meet along the way\n- [Heartbound](https://store.steampowered.com/app/567380/Heartbound/) has some very engaging NPCs. For a short game don't need this level of detail but the concept is interesting","x":1900,"y":317,"width":380,"height":233},
+		{"id":"6fc2b47f37d99e28","x":1125,"y":520,"width":250,"height":257,"color":"1","type":"text","text":"It already seems like this isn't going to be great for a platformer"}
 	],
 	"edges":[
 		{"id":"814c6085255b0bc7","fromNode":"e90451be581a49c1","fromSide":"bottom","toNode":"b975fc64eb8bf9bb","toSide":"top"},
@@ -29,6 +30,7 @@
 		{"id":"1e1c8b66d0bc0b4e","fromNode":"c0fccd4386b16439","fromSide":"right","toNode":"0aea770241216d48","toSide":"left"},
 		{"id":"6a63fc516e3163e3","fromNode":"e912bddf0d4b7d65","fromSide":"right","toNode":"b59b7c7055c0ed48","toSide":"left"},
 		{"id":"d77452f4e2c1c202","fromNode":"00d3d0685fdeee6c","fromSide":"left","toNode":"d2094d4f042824e5","toSide":"left"},
-		{"id":"47e0a786be151d1f","fromNode":"0aea770241216d48","fromSide":"bottom","toNode":"e637627e15b7e78c","toSide":"top"}
+		{"id":"47e0a786be151d1f","fromNode":"0aea770241216d48","fromSide":"bottom","toNode":"e637627e15b7e78c","toSide":"top"},
+		{"id":"d6552ce5da8dd647","fromNode":"d2094d4f042824e5","fromSide":"bottom","toNode":"6fc2b47f37d99e28","toSide":"top"}
 	]
 }

@@ -1,3 +1,11 @@
+// Display props
+fullscreen = false;
+
+
+// Pause
+game_paused = false;
+
+
 // Movement vars
 input_mode_options = {
 	keyboard: "keyboard",

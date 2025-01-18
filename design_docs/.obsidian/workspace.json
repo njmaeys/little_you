@@ -17,9 +17,9 @@
               "state": {
                 "file": "Game Flows.canvas",
                 "viewState": {
-                  "x": 813.376226958053,
-                  "y": 430.8850724806962,
-                  "zoom": -0.6666666666666665
+                  "x": 2056.3514072441017,
+                  "y": 231.75390182610317,
+                  "zoom": 1.1102230246251565e-16
                 }
               },
               "pinned": true,
@@ -192,6 +192,7 @@
   "active": "b7cd1aefa8d4ac21",
   "lastOpenFiles": [
     "Stories/Story 1.md",
+    "Stories/Untitled.md",
     "Game Flows.canvas",
     "Stories",
     "Player.md",

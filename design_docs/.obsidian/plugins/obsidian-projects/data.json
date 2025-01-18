@@ -59,7 +59,10 @@
             "groupByField": "Stage",
             "columns": {
               "Up Next": {
-                "records": []
+                "records": [
+                  "Tasks/Nate Learn UE5.md",
+                  "Tasks/Figure out Story 1.md"
+                ]
               },
               "Ideas": {
                 "records": [

@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "projects": [
+    {
+      "fieldConfig": {
+        "Stage": {
+          "options": [
+            "Ideas",
+            "Up Next",
+            "In Progress",
+            "Done"
+          ]
+        }
+      },
+      "defaultName": "",
+      "templates": [],
+      "excludedNotes": [],
+      "isDefault": false,
+      "dataSource": {
+        "kind": "folder",
+        "config": {
+          "path": "Tasks",
+          "recursive": false
+        }
+      },
+      "newNotesFolder": "",
+      "views": [
+        {
+          "config": {
+            "orderFields": [
+              "name",
+              "path",
+              "Stage",
+              "Owner",
+              "Description"
+            ],
+            "fieldConfig": {}
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "a3852b18-a1a5-4d3a-8d38-5b7f4e84d69d",
+          "name": "Table",
+          "type": "table"
+        },
+        {
+          "config": {
+            "includeFields": [
+              "Description",
+              "Owner"
+            ],
+            "groupByField": "Stage",
+            "columns": {
+              "Up Next": {
+                "records": []
+              },
+              "Ideas": {
+                "records": [
+                  "Tasks/Test 3.md"
+                ]
+              },
+              "In Progress": {
+                "records": [
+                  "Tasks/Test 1.md"
+                ]
+              },
+              "No status": {
+                "records": []
+              },
+              "Done": {
+                "records": [
+                  "Tasks/Test 2.md"
+                ]
+              }
+            }
+          },
+          "filter": {
+            "conjunction": "and",
+            "conditions": []
+          },
+          "colors": {
+            "conditions": []
+          },
+          "sort": {
+            "criteria": []
+          },
+          "id": "78fe2c20-6f21-43c7-8d61-c0a4aeb89963",
+          "name": "Progress",
+          "type": "board"
+        }
+      ],
+      "id": "c0797b82-932b-48e9-85e2-d0cc342eebb3",
+      "name": "Project Tracking - Little You"
+    }
+  ],
+  "archives": [],
+  "preferences": {
+    "projectSizeLimit": 1000,
+    "frontmatter": {
+      "quoteStrings": "PLAIN"
+    },
+    "locale": {
+      "firstDayOfWeek": "default"
+    },
+    "commands": [],
+    "linkBehavior": "open-note"
+  }
+}

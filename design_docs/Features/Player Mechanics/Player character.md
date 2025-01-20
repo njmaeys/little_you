@@ -1,0 +1,2 @@
+- **Description**: Core character mechanics and animations.
+- **Best Practices**: Use **Paper2D Characters** for 2D games, and modularize components for movement, animations, and stats.

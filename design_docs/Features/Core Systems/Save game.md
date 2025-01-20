@@ -1,0 +1,2 @@
+- **Description**: Saves player progress, including level, inventory, and stats.
+- **Best Practices**: Use the **SaveGame Blueprint/Classes** to store/load data. Implement clear save/load points and thoroughly test to prevent save file corruption.

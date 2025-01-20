@@ -1,0 +1,2 @@
+- **Description**: Introduces the game’s narrative or lore.
+- **Best Practices**: Use **UMG Dialog Widgets** for text-based storytelling. Time events or use triggers to guide players through the story.

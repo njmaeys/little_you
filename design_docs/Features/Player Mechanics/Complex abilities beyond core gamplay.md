@@ -1,0 +1,2 @@
+- **Description**: Highly intricate or niche player abilities.
+- **Best Practices**: Start with core abilities and expand after polishing the main mechanics.

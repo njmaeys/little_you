@@ -1,0 +1,2 @@
+- **Description**: Additional complex interactions beyond the essentials.
+- **Best Practices**: Keep the interaction system simple and extensible for future updates.

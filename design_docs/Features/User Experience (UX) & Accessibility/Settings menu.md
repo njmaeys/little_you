@@ -1,0 +1,3 @@
+- **Description**: Allows players to adjust game settings like audio, controls, and graphics.
+- **Best Practices**: Use **UMG Widgets** to create sliders and buttons. Save preferences with the **Game User Settings** class.
+- **Key**: 

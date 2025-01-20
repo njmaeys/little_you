@@ -1,0 +1,2 @@
+- **Description**: Adds visual effects for events like attacks or abilities.
+- **Best Practices**: Use **Niagara Systems** for performance optimization and flexibility.

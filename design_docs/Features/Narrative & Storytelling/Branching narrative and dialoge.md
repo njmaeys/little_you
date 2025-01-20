@@ -1,0 +1,2 @@
+- **Description**: Creates multiple dialogue paths based on player choices.
+- **Best Practices**: Use **Blueprint Function Libraries** for dialogue trees. Add conditions to ensure choices are meaningful.

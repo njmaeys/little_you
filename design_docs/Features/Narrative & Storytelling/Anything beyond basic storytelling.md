@@ -1,0 +1,2 @@
+- **Description**: Expansive narrative systems or deep branching paths.
+- **Best Practices**: Focus on a minimal, engaging story for the current scope.

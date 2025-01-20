@@ -1,0 +1,2 @@
+- **Description**: Provides audio feedback for player actions and events.
+- **Best Practices**: Use **Sound Cues** for reusable effects, and trigger sounds via animations or gameplay events for synchronization.

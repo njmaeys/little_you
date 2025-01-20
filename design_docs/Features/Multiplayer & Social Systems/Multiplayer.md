@@ -1,0 +1,2 @@
+- **Description**: Allows multiple players to interact in the game.
+- **Best Practices**: Use the **Online Subsystem** for networking. Focus on basic functionality to avoid scope creep.

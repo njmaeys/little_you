@@ -1,0 +1,2 @@
+- **Description**: Enhances the visual appeal of the game world.
+- **Best Practices**: Use optimized, modular assets for background layers. Align artwork with parallax scrolling for depth.

@@ -1,0 +1,2 @@
+- **Description**: Tracks key values like health, stamina, and abilities.
+- **Best Practices**: Use **Data Tables** to store stat configurations. Centralize stats in components or a dedicated manager for easy scaling.

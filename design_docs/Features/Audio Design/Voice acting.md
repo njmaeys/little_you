@@ -1,0 +1,2 @@
+- **Description**: Includes character voices or narration.
+- **Best Practices**: Use **Sound Cues** for voice lines. Keep files short and clear for better memory management.

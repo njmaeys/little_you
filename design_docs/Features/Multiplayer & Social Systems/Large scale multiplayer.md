@@ -1,0 +1,2 @@
+- **Description**: A robust multiplayer system for larger player groups.
+- **Best Practices**: Not feasible for the current scope. Focus on local or small-scale multiplayer first.

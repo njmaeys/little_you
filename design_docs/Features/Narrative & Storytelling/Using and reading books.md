@@ -1,0 +1,2 @@
+- **Description**: Allows players to access in-game lore or information.
+- **Best Practices**: Use **Text Widgets** for simple implementation. Add bookmarks or highlights for usability.

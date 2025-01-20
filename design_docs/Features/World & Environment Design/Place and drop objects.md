@@ -1,0 +1,2 @@
+- **Description**: Adds mechanics for object placement or manipulation.
+- **Best Practices**: Use **Physics Handles** for drag/drop systems. Snap objects to valid placements to avoid glitches.

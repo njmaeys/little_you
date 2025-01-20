@@ -1,0 +1,2 @@
+- **Description**: Displays a simplified view of the world for navigation.
+- **Best Practices**: Use **Tile Maps** for a grid-based map design. Keep assets lightweight and clearly indicate key locations.

@@ -1,0 +1,2 @@
+- **Description**: Enables the player to perform actions to damage enemies or interact with objects.
+- **Best Practices**: Use **Input Actions** with the Enhanced Input System for player inputs. Design hitboxes with **Collision Channels** and trigger attack effects via animation notifies.

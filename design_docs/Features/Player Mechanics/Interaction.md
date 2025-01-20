@@ -1,0 +1,2 @@
+- **Description**: Allows the player to interact with various entities in the game world.
+- **Best Practices**: Use **Interfaces** for interaction logic. For monsters, use **Behavior Trees** to manage AI and ensure consistent proximity checks with Sphere Collisions.

@@ -1,0 +1,2 @@
+- **Description**: Adds special skills or powers for the player to use.
+- **Best Practices**: Centralize ability cooldowns and effects in an **Actor Component**. Trigger abilities via the Enhanced Input System.

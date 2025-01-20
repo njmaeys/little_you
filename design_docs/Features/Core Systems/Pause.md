@@ -1,0 +1,2 @@
+- **Description**: Stops the game and displays a pause menu.
+- **Best Practices**: Use the **Pause Game** node to stop gameplay logic, and implement a custom **UMG Widget** for the menu.

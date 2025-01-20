@@ -1,0 +1,2 @@
+- **Description**: Displays essential information like health, inventory, and objectives.
+- **Best Practices**: Use **UMG Widgets** to create a clean and responsive UI. Ensure HUD is scalable and supports different resolutions.

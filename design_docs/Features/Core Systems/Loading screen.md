@@ -1,0 +1,2 @@
+- **Description**: Displays a transition screen during level loading.
+- **Best Practices**: Implement **Level Streaming** with a loading widget. Use animations or progress bars to indicate status.

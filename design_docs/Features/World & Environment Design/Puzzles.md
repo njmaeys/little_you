@@ -1,0 +1,2 @@
+- **Description**: Adds challenges that require logical thinking to progress.
+- **Best Practices**: Use **Blueprints** to build modular puzzle mechanics. Add visual/audio feedback for player actions.

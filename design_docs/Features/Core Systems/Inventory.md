@@ -1,0 +1,2 @@
+- **Description**: Tracks the player’s items and equipment.
+- **Best Practices**: Create an **Actor Component** for inventory logic and use **UMG Widgets** to design the UI. Ensure inventory logic is independent of the player for scalability.

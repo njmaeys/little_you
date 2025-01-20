@@ -1,0 +1,2 @@
+- **Description**: Creates a sense of depth with scrolling background layers.
+- **Best Practices**: Use **Blueprints** to manage parallax layers. Optimize textures for better performance.

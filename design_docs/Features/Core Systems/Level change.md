@@ -1,0 +1,2 @@
+- **Description**: Allows the player to transition between levels or areas.
+- **Best Practices**: Use the **Level Streaming System** for seamless transitions. Utilize trigger volumes to detect when the player moves to a new area and ensure lightweight modular levels for fast loading.

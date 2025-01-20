@@ -1,0 +1,2 @@
+- **Description**: Implements enemies with AI behaviors and animations.
+- **Best Practices**: Use **AI Controllers** and **Behavior Trees** for simple AI. Use collision profiles to manage damage and movement boundaries.
